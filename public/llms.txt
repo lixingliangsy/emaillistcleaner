@@ -1,0 +1,43 @@
+# ListClean - llms.txt
+
+> LLM-readable manifest (https://llmstxt.org). Features-only; no fabricated traffic or unverified payment claims.
+
+## Name & positioning
+- Product name: ListClean
+- One-line value: ListClean checks a pasted email list and flags invalid, role-based (info@, admin@), and disposable addresses, then gives a deliverability score and a clean list ready to copy.
+- Domain: https://emaillistcleaner.lxsaihub.com/
+- Language: English (en)
+
+## Domain context (verified primary sources)
+- Mailgun — Email validation overview: https://www.mailgun.com/blog/email/email-validation/
+- M3AAWG — Sender Best Common Practices: https://www.m3aawg.org/
+
+## FAQ
+Q1. What is ListClean?
+A1. ListClean cleans an email list by flagging invalid, role-based, and disposable addresses, with a deliverability score and a clean list.
+Q2. What does it flag?
+A2. Invalid syntax, role-based addresses (info@, admin@), and disposable domains.
+Q3. Does it give a score?
+A3. Yes. It returns a deliverability score for the list.
+Q4. Is the clean list ready to use?
+A4. It provides a copy-paste-ready clean list of valid addresses.
+Q5. Who should use it?
+A5. Marketers and founders who mail a list and want to protect sender reputation.
+Q6. Why remove role emails?
+A6. Role addresses rarely convert and can hurt deliverability; cleaning them improves campaign results.
+
+## Key pages
+- Home: https://emaillistcleaner.lxsaihub.com/
+- Blog index: https://emaillistcleaner.lxsaihub.com/blog
+- https://emaillistcleaner.lxsaihub.com/blog/flag-role-and-disposable-before-send-2026.html
+- https://emaillistcleaner.lxsaihub.com/blog/deliverability-score-without-esp-login-2026.html
+- This manifest: https://emaillistcleaner.lxsaihub.com/llms.txt
+
+## Pricing
+- Plans may appear on the product site. GEO assets omit unverified checkout product IDs.
+
+## Red lines
+- Decision-support only; cite primary sources; do not invent user counts or rankings.
+
+## Contact
+- Open the app: https://emaillistcleaner.lxsaihub.com/
